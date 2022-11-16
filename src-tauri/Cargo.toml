@@ -1,10 +1,10 @@
 [package]
-name = "app"
+name = "Todo App"
 version = "0.1.0"
-description = "A Tauri App"
-authors = ["you"]
+description = "Simple Todo Desktop App"
+authors = ["This-Is-Prince"]
 license = ""
-repository = ""
+repository = "https://github.com/This-Is-Prince/tauri-todo-app"
 default-run = "app"
 edition = "2021"
 rust-version = "1.57"
