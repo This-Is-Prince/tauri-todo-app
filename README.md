@@ -8,3 +8,4 @@
 4. JavaScript
 5. CSS
 6. HTML
+7. Tailwindcss
